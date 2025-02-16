@@ -119,6 +119,15 @@ I'm a **Full-Stack Developer** with expertise in **Spring Boot**, passionate abo
   CodingNinja</a>
 </p>
 
+-- Update This --
+## 📬 Contact Me  
+- 📧 **Email:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aarav6x@gmail.com)  
+- 🌐 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/zaidhbtu)  
+- 🏆 **LeetCode:** [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/zaidhbtu/)  
+- 👨‍💻 **CodingNinjas:** [![CodingNinjas](https://img.shields.io/badge/CodingNinjas-FF6F00?style=flat&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/Zaid12hbtu)  
+
+
+
 
 ## 📊 GitHub Stats  
 <p>
